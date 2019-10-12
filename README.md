@@ -5,7 +5,7 @@
 
 
 <div style="background-color:red">
-  <h1 style="color:white">Telegram Not Available in Pakistan So Use Vpn</h1>
+  <h1 style="color:white">Telegram Not Available in Pakistan So I am Not Working on Telegram Bot</h1>
 </div>
 
 
